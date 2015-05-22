@@ -24,7 +24,7 @@ A system running node.js and the node ical.js module is required
 (npm install -g ical.js).  
 
 Run:  
-node makeonoff.js <iCal file or URL> [output file]  
+node makeonoff.js &lt;iCal file or URL&gt; [output file]  
 
 The default output file is onoff.txt  
 
